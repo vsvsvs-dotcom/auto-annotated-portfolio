@@ -14,7 +14,7 @@ sections:
     colors: colors-b
     backgroundSize: full
     title: Delta Consultancy Services
-    subtitle: Delta Consultancy Services
+    subtitle: 'CFO Services, Fractional CFO, Financial Consulting, M&A Support'
     styles:
       self:
         height: auto
