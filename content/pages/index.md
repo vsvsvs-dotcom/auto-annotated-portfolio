@@ -12,7 +12,7 @@ backgroundImage:
 sections:
   - elementId: ''
     colors: colors-b
-    backgroundSize: full
+    backgroundSize: inset
     title: Delta Consultancy Services
     subtitle: 'CFO Services, Fractional CFO, Financial Consulting, M&A Support'
     styles:
